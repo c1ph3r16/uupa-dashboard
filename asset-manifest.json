@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/uupa-dashboard/static/css/main.56b96d48.css",
+    "main.js": "/uupa-dashboard/static/js/main.78599dfb.js",
+    "static/js/453.af9c53df.chunk.js": "/uupa-dashboard/static/js/453.af9c53df.chunk.js",
+    "index.html": "/uupa-dashboard/index.html",
+    "main.56b96d48.css.map": "/uupa-dashboard/static/css/main.56b96d48.css.map",
+    "main.78599dfb.js.map": "/uupa-dashboard/static/js/main.78599dfb.js.map",
+    "453.af9c53df.chunk.js.map": "/uupa-dashboard/static/js/453.af9c53df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56b96d48.css",
+    "static/js/main.78599dfb.js"
+  ]
+}
